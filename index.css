@@ -1,0 +1,86 @@
+body{
+   font-family:'Arial Narrow', Arial, sans-serif;
+   background-color: rgb(9, 51, 51);
+   color: aliceblue;
+}
+.bloco{
+    padding: 0px 20px;
+}
+.psimg{
+    width: 170px;
+    height: 250px;
+    border-radius: 20px;
+    text-align: center;
+}
+.divimg{
+    text-align:left;
+    padding: 20px 20px;
+}
+h4{
+    font-size: 25px;
+    margin: 20px;
+    text-align: center;
+}
+a img{
+    width: 100px;
+    height: 100px;
+}
+/* footer h4{
+    text-align: center;
+}
+footer h4 img{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+footer img{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+footer a{
+    margin: 20px;
+}
+footer p{
+    margin: 20px;
+    text-align: center;
+} */
+.centro{
+    text-align: center;
+}
+ul{
+    display:ruby;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items:center;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+li{
+    font-size: 25px;
+    color: bisque;
+}
+.carreira{
+    text-align: center;
+    color: rgb(248, 239, 240);
+}
+.linha{
+    list-style-type: circle;
+    color: brown;
+}
+.ind{
+    font-size: 25px;
+}
+.blocoed{
+    padding: 0px 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
